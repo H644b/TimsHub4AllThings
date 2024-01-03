@@ -45,15 +45,15 @@ li {
 }
 
 button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #3498db;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    font-size: 1em;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
+    background:    #31acee;
+    border-radius: 0px;
+    box-shadow:    7px 7px #553e57;
+    padding:       20px 45px;
+    color:         #ffffff;
+    display:       inline-block;
+    font:          normal bold 26px/1 "Ubuntu", sans-serif;
+    text-align:    center;
+    text-shadow:   1px 1px #000000;
 }
 
 button:hover {
