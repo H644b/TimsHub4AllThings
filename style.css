@@ -3,7 +3,7 @@ body {
     color: #333;
     font-family: 'Roboto', Arial, sans-serif;
     margin: 0;
-    text-align: center;
+    
 }
 
 header {
@@ -67,4 +67,7 @@ footer {
     color: #fff;
     width: 100%;
     box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+}
+#datext {
+    text-align: center;
 }
