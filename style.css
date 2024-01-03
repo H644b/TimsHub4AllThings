@@ -55,7 +55,12 @@ button {
     text-align:    center;
     text-shadow:   1px 1px #000000;
 }
-
+button:active {
+  /** Remove 3D Block Effect on Click **/
+  box-shadow: none;
+  top: 10px;
+  margin-bottom: 0;
+}
 button:hover {
     background-color: #2980b9;
 }
