@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+
 body {
     background-color: #ffecb3; /* Light yellow background */
     color: #4d2d00; /* Dark brown text color */
-    font-family: 'Fantasy', cursive; /* Use a fantasy-themed font */
+    font-family: 'Rubik Doodle Shadow', system-ui;
     margin: 0;
 }
-
+ 
 header {
     text-align: center;
     padding: 50px;
